@@ -1,15 +1,14 @@
 /*Geral*/
 body{background-color: #131108;}
-/*Barra navegação*/
+
 header {
     background-color: #131108;
     padding: 20px;
     display: flex;
-    justify-content: center; 
-}
-h1{ color: #ffffff;}
+    justify-content: center; }
 
-/*Barra de navegação*/
+h1{ color: #ffffff;}
+/*Barra navegação*/
 .barra-nav {
     border: 2px solid #ffde59;
     padding: 10px 20px;
@@ -120,6 +119,7 @@ h1{ color: #ffffff;}
     border: 3px solid #f3d052;
     box-shadow: 0px 4px 15px rgba(243, 208, 82, 0.2);
 }
+
 .container02 {
     width: 100%;
     margin-top: 150px;
@@ -159,7 +159,6 @@ h1{ color: #ffffff;}
         width: 220px;
         height: 220px;
     }
-
     .texto-introducao h1 {
         font-size: 38px;
     }
